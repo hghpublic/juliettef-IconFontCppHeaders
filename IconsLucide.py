@@ -8,8 +8,8 @@ class IconsLucide:
     FONT_ICON_FILE_NAME_LC = 'lucide.ttf'
 
     ICON_MIN = 0xe038
-    ICON_MAX_16 = 0xe671
-    ICON_MAX = 0xe671
+    ICON_MAX_16 = 0xe678
+    ICON_MAX = 0xe678
 
     ICON_A_ARROW_DOWN = '\ue58a'
     ICON_A_ARROW_UP = '\ue58b'
@@ -195,6 +195,7 @@ class IconsLucide:
     ICON_BOMB = '\ue2ff'
     ICON_BONE = '\ue35c'
     ICON_BOOK_A = '\ue549'
+    ICON_BOOK_ALERT = '\ue677'
     ICON_BOOK_AUDIO = '\ue54a'
     ICON_BOOK_CHECK = '\ue54b'
     ICON_BOOK_COPY = '\ue3f1'
@@ -290,6 +291,7 @@ class IconsLucide:
     ICON_CAR_TAXI_FRONT = '\ue503'
     ICON_CAR = '\ue1d5'
     ICON_CARAVAN = '\ue53e'
+    ICON_CARD_SIM = '\ue676'
     ICON_CARROT = '\ue25a'
     ICON_CASE_LOWER = '\ue3dc'
     ICON_CASE_SENSITIVE = '\ue3dd'
@@ -380,6 +382,7 @@ class IconsLucide:
     ICON_CIRCLE_PERCENT = '\ue51f'
     ICON_CIRCLE_PLAY = '\ue085'
     ICON_CIRCLE_PLUS = '\ue086'
+    ICON_CIRCLE_POUND_STERLING = '\ue672'
     ICON_CIRCLE_POWER = '\ue555'
     ICON_CIRCLE_SLASH_2 = '\ue213'
     ICON_CIRCLE_SLASH = '\ue407'
@@ -422,6 +425,7 @@ class IconsLucide:
     ICON_CLOCK_PLUS = '\ue66c'
     ICON_CLOCK = '\ue08b'
     ICON_CLOUD_ALERT = '\ue638'
+    ICON_CLOUD_CHECK = '\ue673'
     ICON_CLOUD_COG = '\ue30a'
     ICON_CLOUD_DOWNLOAD = '\ue08d'
     ICON_CLOUD_DRIZZLE = '\ue08e'
@@ -740,6 +744,7 @@ class IconsLucide:
     ICON_GRID_2X2_PLUS = '\ue62d'
     ICON_GRID_2X2_X = '\ue5ea'
     ICON_GRID_2X2 = '\ue504'
+    ICON_GRID_3X2 = '\ue674'
     ICON_GRID_3X3 = '\ue0ed'
     ICON_GRIP_HORIZONTAL = '\ue0ee'
     ICON_GRIP_VERTICAL = '\ue0ef'
@@ -795,6 +800,7 @@ class IconsLucide:
     ICON_HOUSE = '\ue0f9'
     ICON_ICE_CREAM_BOWL = '\ue3ab'
     ICON_ICE_CREAM_CONE = '\ue357'
+    ICON_ID_CARD_LANYARD = '\ue675'
     ICON_ID_CARD = '\ue61c'
     ICON_IMAGE_DOWN = '\ue541'
     ICON_IMAGE_MINUS = '\ue1f6'
@@ -1162,6 +1168,7 @@ class IconsLucide:
     ICON_RECEIPT_SWISS_FRANC = '\ue5b0'
     ICON_RECEIPT_TEXT = '\ue5b1'
     ICON_RECEIPT = '\ue3d7'
+    ICON_RECTANGLE_CIRCLE = '\ue678'
     ICON_RECTANGLE_ELLIPSIS = '\ue21f'
     ICON_RECTANGLE_GOGGLES = '\ue65b'
     ICON_RECTANGLE_HORIZONTAL = '\ue37a'

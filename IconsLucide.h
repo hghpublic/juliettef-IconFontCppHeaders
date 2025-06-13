@@ -8,8 +8,8 @@
 #define FONT_ICON_FILE_NAME_LC "lucide.ttf"
 
 #define ICON_MIN_LC 0xe038
-#define ICON_MAX_16_LC 0xe671
-#define ICON_MAX_LC 0xe671
+#define ICON_MAX_16_LC 0xe678
+#define ICON_MAX_LC 0xe678
 
 #define ICON_LC_A_ARROW_DOWN "\xee\x96\x8a"	// U+e58a
 #define ICON_LC_A_ARROW_UP "\xee\x96\x8b"	// U+e58b
@@ -195,6 +195,7 @@
 #define ICON_LC_BOMB "\xee\x8b\xbf"	// U+e2ff
 #define ICON_LC_BONE "\xee\x8d\x9c"	// U+e35c
 #define ICON_LC_BOOK_A "\xee\x95\x89"	// U+e549
+#define ICON_LC_BOOK_ALERT "\xee\x99\xb7"	// U+e677
 #define ICON_LC_BOOK_AUDIO "\xee\x95\x8a"	// U+e54a
 #define ICON_LC_BOOK_CHECK "\xee\x95\x8b"	// U+e54b
 #define ICON_LC_BOOK_COPY "\xee\x8f\xb1"	// U+e3f1
@@ -290,6 +291,7 @@
 #define ICON_LC_CAR_TAXI_FRONT "\xee\x94\x83"	// U+e503
 #define ICON_LC_CAR "\xee\x87\x95"	// U+e1d5
 #define ICON_LC_CARAVAN "\xee\x94\xbe"	// U+e53e
+#define ICON_LC_CARD_SIM "\xee\x99\xb6"	// U+e676
 #define ICON_LC_CARROT "\xee\x89\x9a"	// U+e25a
 #define ICON_LC_CASE_LOWER "\xee\x8f\x9c"	// U+e3dc
 #define ICON_LC_CASE_SENSITIVE "\xee\x8f\x9d"	// U+e3dd
@@ -380,6 +382,7 @@
 #define ICON_LC_CIRCLE_PERCENT "\xee\x94\x9f"	// U+e51f
 #define ICON_LC_CIRCLE_PLAY "\xee\x82\x85"	// U+e085
 #define ICON_LC_CIRCLE_PLUS "\xee\x82\x86"	// U+e086
+#define ICON_LC_CIRCLE_POUND_STERLING "\xee\x99\xb2"	// U+e672
 #define ICON_LC_CIRCLE_POWER "\xee\x95\x95"	// U+e555
 #define ICON_LC_CIRCLE_SLASH_2 "\xee\x88\x93"	// U+e213
 #define ICON_LC_CIRCLE_SLASH "\xee\x90\x87"	// U+e407
@@ -422,6 +425,7 @@
 #define ICON_LC_CLOCK_PLUS "\xee\x99\xac"	// U+e66c
 #define ICON_LC_CLOCK "\xee\x82\x8b"	// U+e08b
 #define ICON_LC_CLOUD_ALERT "\xee\x98\xb8"	// U+e638
+#define ICON_LC_CLOUD_CHECK "\xee\x99\xb3"	// U+e673
 #define ICON_LC_CLOUD_COG "\xee\x8c\x8a"	// U+e30a
 #define ICON_LC_CLOUD_DOWNLOAD "\xee\x82\x8d"	// U+e08d
 #define ICON_LC_CLOUD_DRIZZLE "\xee\x82\x8e"	// U+e08e
@@ -740,6 +744,7 @@
 #define ICON_LC_GRID_2X2_PLUS "\xee\x98\xad"	// U+e62d
 #define ICON_LC_GRID_2X2_X "\xee\x97\xaa"	// U+e5ea
 #define ICON_LC_GRID_2X2 "\xee\x94\x84"	// U+e504
+#define ICON_LC_GRID_3X2 "\xee\x99\xb4"	// U+e674
 #define ICON_LC_GRID_3X3 "\xee\x83\xad"	// U+e0ed
 #define ICON_LC_GRIP_HORIZONTAL "\xee\x83\xae"	// U+e0ee
 #define ICON_LC_GRIP_VERTICAL "\xee\x83\xaf"	// U+e0ef
@@ -795,6 +800,7 @@
 #define ICON_LC_HOUSE "\xee\x83\xb9"	// U+e0f9
 #define ICON_LC_ICE_CREAM_BOWL "\xee\x8e\xab"	// U+e3ab
 #define ICON_LC_ICE_CREAM_CONE "\xee\x8d\x97"	// U+e357
+#define ICON_LC_ID_CARD_LANYARD "\xee\x99\xb5"	// U+e675
 #define ICON_LC_ID_CARD "\xee\x98\x9c"	// U+e61c
 #define ICON_LC_IMAGE_DOWN "\xee\x95\x81"	// U+e541
 #define ICON_LC_IMAGE_MINUS "\xee\x87\xb6"	// U+e1f6
@@ -1162,6 +1168,7 @@
 #define ICON_LC_RECEIPT_SWISS_FRANC "\xee\x96\xb0"	// U+e5b0
 #define ICON_LC_RECEIPT_TEXT "\xee\x96\xb1"	// U+e5b1
 #define ICON_LC_RECEIPT "\xee\x8f\x97"	// U+e3d7
+#define ICON_LC_RECTANGLE_CIRCLE "\xee\x99\xb8"	// U+e678
 #define ICON_LC_RECTANGLE_ELLIPSIS "\xee\x88\x9f"	// U+e21f
 #define ICON_LC_RECTANGLE_GOGGLES "\xee\x99\x9b"	// U+e65b
 #define ICON_LC_RECTANGLE_HORIZONTAL "\xee\x8d\xba"	// U+e37a

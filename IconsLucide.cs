@@ -12,8 +12,8 @@ namespace IconFonts
         public const string FontIconFileNameLC = "lucide.ttf";
 
         public const int IconMin = 0xe038;
-        public const int IconMax16 = 0xe671;
-        public const int IconMax = 0xe671;
+        public const int IconMax16 = 0xe678;
+        public const int IconMax = 0xe678;
 
         public const string AArrowDown = "\ue58a";
         public const string AArrowUp = "\ue58b";
@@ -199,6 +199,7 @@ namespace IconFonts
         public const string Bomb = "\ue2ff";
         public const string Bone = "\ue35c";
         public const string BookA = "\ue549";
+        public const string BookAlert = "\ue677";
         public const string BookAudio = "\ue54a";
         public const string BookCheck = "\ue54b";
         public const string BookCopy = "\ue3f1";
@@ -294,6 +295,7 @@ namespace IconFonts
         public const string CarTaxiFront = "\ue503";
         public const string Car = "\ue1d5";
         public const string Caravan = "\ue53e";
+        public const string CardSim = "\ue676";
         public const string Carrot = "\ue25a";
         public const string CaseLower = "\ue3dc";
         public const string CaseSensitive = "\ue3dd";
@@ -384,6 +386,7 @@ namespace IconFonts
         public const string CirclePercent = "\ue51f";
         public const string CirclePlay = "\ue085";
         public const string CirclePlus = "\ue086";
+        public const string CirclePoundSterling = "\ue672";
         public const string CirclePower = "\ue555";
         public const string CircleSlash2 = "\ue213";
         public const string CircleSlash = "\ue407";
@@ -426,6 +429,7 @@ namespace IconFonts
         public const string ClockPlus = "\ue66c";
         public const string Clock = "\ue08b";
         public const string CloudAlert = "\ue638";
+        public const string CloudCheck = "\ue673";
         public const string CloudCog = "\ue30a";
         public const string CloudDownload = "\ue08d";
         public const string CloudDrizzle = "\ue08e";
@@ -744,6 +748,7 @@ namespace IconFonts
         public const string Grid2x2Plus = "\ue62d";
         public const string Grid2x2X = "\ue5ea";
         public const string Grid2x2 = "\ue504";
+        public const string Grid3x2 = "\ue674";
         public const string Grid3x3 = "\ue0ed";
         public const string GripHorizontal = "\ue0ee";
         public const string GripVertical = "\ue0ef";
@@ -799,6 +804,7 @@ namespace IconFonts
         public const string House = "\ue0f9";
         public const string IceCreamBowl = "\ue3ab";
         public const string IceCreamCone = "\ue357";
+        public const string IdCardLanyard = "\ue675";
         public const string IdCard = "\ue61c";
         public const string ImageDown = "\ue541";
         public const string ImageMinus = "\ue1f6";
@@ -1166,6 +1172,7 @@ namespace IconFonts
         public const string ReceiptSwissFranc = "\ue5b0";
         public const string ReceiptText = "\ue5b1";
         public const string Receipt = "\ue3d7";
+        public const string RectangleCircle = "\ue678";
         public const string RectangleEllipsis = "\ue21f";
         public const string RectangleGoggles = "\ue65b";
         public const string RectangleHorizontal = "\ue37a";

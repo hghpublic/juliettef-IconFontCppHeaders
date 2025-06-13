@@ -10,8 +10,8 @@ var IconsLucide = Font{
 		{"LC", "lucide.ttf"},
 	},
 	Min: 0xe038,
-	Max16: 0xe671,
-	Max: 0xe671,
+	Max16: 0xe678,
+	Max: 0xe678,
 	Icons: map[string]string{
 		"AArrowDown":	"\xee\x96\x8a", 	// U+e58a
 		"AArrowUp":	"\xee\x96\x8b", 	// U+e58b
@@ -197,6 +197,7 @@ var IconsLucide = Font{
 		"Bomb":	"\xee\x8b\xbf", 	// U+e2ff
 		"Bone":	"\xee\x8d\x9c", 	// U+e35c
 		"BookA":	"\xee\x95\x89", 	// U+e549
+		"BookAlert":	"\xee\x99\xb7", 	// U+e677
 		"BookAudio":	"\xee\x95\x8a", 	// U+e54a
 		"BookCheck":	"\xee\x95\x8b", 	// U+e54b
 		"BookCopy":	"\xee\x8f\xb1", 	// U+e3f1
@@ -292,6 +293,7 @@ var IconsLucide = Font{
 		"CarTaxiFront":	"\xee\x94\x83", 	// U+e503
 		"Car":	"\xee\x87\x95", 	// U+e1d5
 		"Caravan":	"\xee\x94\xbe", 	// U+e53e
+		"CardSim":	"\xee\x99\xb6", 	// U+e676
 		"Carrot":	"\xee\x89\x9a", 	// U+e25a
 		"CaseLower":	"\xee\x8f\x9c", 	// U+e3dc
 		"CaseSensitive":	"\xee\x8f\x9d", 	// U+e3dd
@@ -382,6 +384,7 @@ var IconsLucide = Font{
 		"CirclePercent":	"\xee\x94\x9f", 	// U+e51f
 		"CirclePlay":	"\xee\x82\x85", 	// U+e085
 		"CirclePlus":	"\xee\x82\x86", 	// U+e086
+		"CirclePoundSterling":	"\xee\x99\xb2", 	// U+e672
 		"CirclePower":	"\xee\x95\x95", 	// U+e555
 		"CircleSlash2":	"\xee\x88\x93", 	// U+e213
 		"CircleSlash":	"\xee\x90\x87", 	// U+e407
@@ -424,6 +427,7 @@ var IconsLucide = Font{
 		"ClockPlus":	"\xee\x99\xac", 	// U+e66c
 		"Clock":	"\xee\x82\x8b", 	// U+e08b
 		"CloudAlert":	"\xee\x98\xb8", 	// U+e638
+		"CloudCheck":	"\xee\x99\xb3", 	// U+e673
 		"CloudCog":	"\xee\x8c\x8a", 	// U+e30a
 		"CloudDownload":	"\xee\x82\x8d", 	// U+e08d
 		"CloudDrizzle":	"\xee\x82\x8e", 	// U+e08e
@@ -742,6 +746,7 @@ var IconsLucide = Font{
 		"Grid2x2Plus":	"\xee\x98\xad", 	// U+e62d
 		"Grid2x2X":	"\xee\x97\xaa", 	// U+e5ea
 		"Grid2x2":	"\xee\x94\x84", 	// U+e504
+		"Grid3x2":	"\xee\x99\xb4", 	// U+e674
 		"Grid3x3":	"\xee\x83\xad", 	// U+e0ed
 		"GripHorizontal":	"\xee\x83\xae", 	// U+e0ee
 		"GripVertical":	"\xee\x83\xaf", 	// U+e0ef
@@ -797,6 +802,7 @@ var IconsLucide = Font{
 		"House":	"\xee\x83\xb9", 	// U+e0f9
 		"IceCreamBowl":	"\xee\x8e\xab", 	// U+e3ab
 		"IceCreamCone":	"\xee\x8d\x97", 	// U+e357
+		"IdCardLanyard":	"\xee\x99\xb5", 	// U+e675
 		"IdCard":	"\xee\x98\x9c", 	// U+e61c
 		"ImageDown":	"\xee\x95\x81", 	// U+e541
 		"ImageMinus":	"\xee\x87\xb6", 	// U+e1f6
@@ -1164,6 +1170,7 @@ var IconsLucide = Font{
 		"ReceiptSwissFranc":	"\xee\x96\xb0", 	// U+e5b0
 		"ReceiptText":	"\xee\x96\xb1", 	// U+e5b1
 		"Receipt":	"\xee\x8f\x97", 	// U+e3d7
+		"RectangleCircle":	"\xee\x99\xb8", 	// U+e678
 		"RectangleEllipsis":	"\xee\x88\x9f", 	// U+e21f
 		"RectangleGoggles":	"\xee\x99\x9b", 	// U+e65b
 		"RectangleHorizontal":	"\xee\x8d\xba", 	// U+e37a
