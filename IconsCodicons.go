@@ -602,6 +602,10 @@ var IconsCodicons = Font{
 		"KeyboardTabBelow":	"\xee\xb1\x85", 	// U+ec45
 		"GitPullRequestDone":	"\xee\xb1\x86", 	// U+ec46
 		"Mcp":	"\xee\xb1\x87", 	// U+ec47
+		"ExtensionsLarge":	"\xee\xb1\x88", 	// U+ec48
+		"LayoutPanelDock":	"\xee\xb1\x89", 	// U+ec49
+		"LayoutSidebarLeftDock":	"\xee\xb1\x8a", 	// U+ec4a
+		"LayoutSidebarRightDock":	"\xee\xb1\x8b", 	// U+ec4b
 		"GitFetch":	"\xef\x84\x81", 	// U+f101
 	},
 }

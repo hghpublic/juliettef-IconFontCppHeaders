@@ -600,4 +600,8 @@
 #define ICON_CI_KEYBOARD_TAB_BELOW "\xee\xb1\x85"	// U+ec45
 #define ICON_CI_GIT_PULL_REQUEST_DONE "\xee\xb1\x86"	// U+ec46
 #define ICON_CI_MCP "\xee\xb1\x87"	// U+ec47
+#define ICON_CI_EXTENSIONS_LARGE "\xee\xb1\x88"	// U+ec48
+#define ICON_CI_LAYOUT_PANEL_DOCK "\xee\xb1\x89"	// U+ec49
+#define ICON_CI_LAYOUT_SIDEBAR_LEFT_DOCK "\xee\xb1\x8a"	// U+ec4a
+#define ICON_CI_LAYOUT_SIDEBAR_RIGHT_DOCK "\xee\xb1\x8b"	// U+ec4b
 #define ICON_CI_GIT_FETCH "\xef\x84\x81"	// U+f101

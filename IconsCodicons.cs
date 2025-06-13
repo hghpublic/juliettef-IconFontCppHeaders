@@ -604,6 +604,10 @@ namespace IconFonts
         public const string KeyboardTabBelow = "\uec45";
         public const string GitPullRequestDone = "\uec46";
         public const string Mcp = "\uec47";
+        public const string ExtensionsLarge = "\uec48";
+        public const string LayoutPanelDock = "\uec49";
+        public const string LayoutSidebarLeftDock = "\uec4a";
+        public const string LayoutSidebarRightDock = "\uec4b";
         public const string GitFetch = "\uf101";
     }
 }

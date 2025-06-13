@@ -600,4 +600,8 @@ class IconsCodicons:
     ICON_KEYBOARD_TAB_BELOW = '\uec45'
     ICON_GIT_PULL_REQUEST_DONE = '\uec46'
     ICON_MCP = '\uec47'
+    ICON_EXTENSIONS_LARGE = '\uec48'
+    ICON_LAYOUT_PANEL_DOCK = '\uec49'
+    ICON_LAYOUT_SIDEBAR_LEFT_DOCK = '\uec4a'
+    ICON_LAYOUT_SIDEBAR_RIGHT_DOCK = '\uec4b'
     ICON_GIT_FETCH = '\uf101'
