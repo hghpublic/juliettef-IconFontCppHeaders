@@ -522,7 +522,7 @@ class FontCI( FontKI ):               # Codicons
     ttfs = [[ font_abbr, 'codicon.ttf', 'https://microsoft.github.io/vscode-codicons/dist/codicon.ttf' ]]
 
 
-class FontLC( FontKI ):               # Lucide
+class FontLC( FontMDI ):               # Lucide
     font_name = 'Lucide'
     font_abbr = 'LC'
     font_data_prefix = '.icon-'
