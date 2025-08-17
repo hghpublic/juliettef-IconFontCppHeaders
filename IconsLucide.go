@@ -10,8 +10,8 @@ var IconsLucide = Font{
 		{"LC", "lucide.ttf"},
 	},
 	Min: 0xe038,
-	Max16: 0xe678,
-	Max: 0xe678,
+	Max16: 0xe695,
+	Max: 0xe695,
 	Icons: map[string]string{
 		"AArrowDown":	"\xee\x96\x8a", 	// U+e58a
 		"AArrowUp":	"\xee\x96\x8b", 	// U+e58b
@@ -128,16 +128,17 @@ var IconsLucide = Font{
 		"BadgeCheck":	"\xee\x89\x81", 	// U+e241
 		"BadgeDollarSign":	"\xee\x91\xbb", 	// U+e47b
 		"BadgeEuro":	"\xee\x94\x95", 	// U+e515
-		"BadgeHelp":	"\xee\x91\xbc", 	// U+e47c
 		"BadgeIndianRupee":	"\xee\x94\x96", 	// U+e516
-		"BadgeInfo":	"\xee\x91\xbd", 	// U+e47d
+		"BadgeInfo":	"\xee\x91\xbc", 	// U+e47c
 		"BadgeJapaneseYen":	"\xee\x94\x97", 	// U+e517
-		"BadgeMinus":	"\xee\x91\xbe", 	// U+e47e
-		"BadgePercent":	"\xee\x91\xbf", 	// U+e47f
-		"BadgePlus":	"\xee\x92\x80", 	// U+e480
+		"BadgeMinus":	"\xee\x91\xbd", 	// U+e47d
+		"BadgePercent":	"\xee\x91\xbe", 	// U+e47e
+		"BadgePlus":	"\xee\x91\xbf", 	// U+e47f
 		"BadgePoundSterling":	"\xee\x94\x98", 	// U+e518
+		"BadgeQuestionMark":	"\xee\x92\x80", 	// U+e480
 		"BadgeRussianRuble":	"\xee\x94\x99", 	// U+e519
 		"BadgeSwissFranc":	"\xee\x94\x9a", 	// U+e51a
+		"BadgeTurkishLira":	"\xee\x9a\x83", 	// U+e683
 		"BadgeX":	"\xee\x92\x81", 	// U+e481
 		"Badge":	"\xee\x91\xb9", 	// U+e479
 		"BaggageClaim":	"\xee\x8b\x89", 	// U+e2c9
@@ -149,6 +150,7 @@ var IconsLucide = Font{
 		"BanknoteX":	"\xee\x99\x93", 	// U+e653
 		"Banknote":	"\xee\x81\x96", 	// U+e056
 		"Barcode":	"\xee\x94\xb8", 	// U+e538
+		"Barrel":	"\xee\x99\xba", 	// U+e67a
 		"Baseline":	"\xee\x8a\x85", 	// U+e285
 		"Bath":	"\xee\x8a\xab", 	// U+e2ab
 		"BatteryCharging":	"\xee\x81\x98", 	// U+e058
@@ -230,6 +232,7 @@ var IconsLucide = Font{
 		"BotMessageSquare":	"\xee\x97\x93", 	// U+e5d3
 		"BotOff":	"\xee\x97\xa5", 	// U+e5e5
 		"Bot":	"\xee\x86\xbb", 	// U+e1bb
+		"BottleWine":	"\xee\x9a\x80", 	// U+e680
 		"BowArrow":	"\xee\x99\xa3", 	// U+e663
 		"Box":	"\xee\x81\xa5", 	// U+e065
 		"Boxes":	"\xee\x8b\x90", 	// U+e2d0
@@ -239,6 +242,7 @@ var IconsLucide = Font{
 		"BrainCog":	"\xee\x8f\x8c", 	// U+e3cc
 		"Brain":	"\xee\x8f\x8a", 	// U+e3ca
 		"BrickWallFire":	"\xee\x99\x98", 	// U+e658
+		"BrickWallShield":	"\xee\x9a\x95", 	// U+e695
 		"BrickWall":	"\xee\x96\x86", 	// U+e586
 		"BriefcaseBusiness":	"\xee\x97\x9a", 	// U+e5da
 		"BriefcaseConveyorBelt":	"\xee\x98\xb0", 	// U+e630
@@ -375,20 +379,21 @@ var IconsLucide = Font{
 		"CircleFadingArrowUp":	"\xee\x98\x9d", 	// U+e61d
 		"CircleFadingPlus":	"\xee\x97\x81", 	// U+e5c1
 		"CircleGauge":	"\xee\x93\xa6", 	// U+e4e6
-		"CircleHelp":	"\xee\x82\x82", 	// U+e082
-		"CircleMinus":	"\xee\x82\x83", 	// U+e083
+		"CircleMinus":	"\xee\x82\x82", 	// U+e082
 		"CircleOff":	"\xee\x90\x86", 	// U+e406
 		"CircleParkingOff":	"\xee\x8f\x8e", 	// U+e3ce
 		"CircleParking":	"\xee\x8f\x8d", 	// U+e3cd
-		"CirclePause":	"\xee\x82\x84", 	// U+e084
+		"CirclePause":	"\xee\x82\x83", 	// U+e083
 		"CirclePercent":	"\xee\x94\x9f", 	// U+e51f
-		"CirclePlay":	"\xee\x82\x85", 	// U+e085
-		"CirclePlus":	"\xee\x82\x86", 	// U+e086
+		"CirclePlay":	"\xee\x82\x84", 	// U+e084
+		"CirclePlus":	"\xee\x82\x85", 	// U+e085
 		"CirclePoundSterling":	"\xee\x99\xb2", 	// U+e672
 		"CirclePower":	"\xee\x95\x95", 	// U+e555
+		"CircleQuestionMark":	"\xee\x82\x86", 	// U+e086
 		"CircleSlash2":	"\xee\x88\x93", 	// U+e213
 		"CircleSlash":	"\xee\x90\x87", 	// U+e407
 		"CircleSmall":	"\xee\x99\x85", 	// U+e645
+		"CircleStar":	"\xee\x9a\x92", 	// U+e692
 		"CircleStop":	"\xee\x82\x87", 	// U+e087
 		"CircleUserRound":	"\xee\x91\xa7", 	// U+e467
 		"CircleUser":	"\xee\x91\xa6", 	// U+e466
@@ -398,6 +403,7 @@ var IconsLucide = Font{
 		"Citrus":	"\xee\x8d\xb9", 	// U+e379
 		"Clapperboard":	"\xee\x8a\x9b", 	// U+e29b
 		"ClipboardCheck":	"\xee\x88\x99", 	// U+e219
+		"ClipboardClock":	"\xee\x9a\x8d", 	// U+e68d
 		"ClipboardCopy":	"\xee\x88\xa5", 	// U+e225
 		"ClipboardList":	"\xee\x82\x8a", 	// U+e08a
 		"ClipboardMinus":	"\xee\x97\x83", 	// U+e5c3
@@ -426,6 +432,7 @@ var IconsLucide = Font{
 		"ClockFading":	"\xee\x99\x8f", 	// U+e64f
 		"ClockPlus":	"\xee\x99\xac", 	// U+e66c
 		"Clock":	"\xee\x82\x8b", 	// U+e08b
+		"ClosedCaption":	"\xee\x9a\x8f", 	// U+e68f
 		"CloudAlert":	"\xee\x98\xb8", 	// U+e638
 		"CloudCheck":	"\xee\x99\xb3", 	// U+e673
 		"CloudCog":	"\xee\x8c\x8a", 	// U+e30a
@@ -541,6 +548,7 @@ var IconsLucide = Font{
 		"Drama":	"\xee\x94\xa6", 	// U+e526
 		"Dribbble":	"\xee\x82\xb7", 	// U+e0b7
 		"Drill":	"\xee\x96\x92", 	// U+e592
+		"Drone":	"\xee\x99\xbb", 	// U+e67b
 		"DropletOff":	"\xee\x98\xbd", 	// U+e63d
 		"Droplet":	"\xee\x82\xb8", 	// U+e0b8
 		"Droplets":	"\xee\x82\xb9", 	// U+e0b9
@@ -611,24 +619,24 @@ var IconsLucide = Font{
 		"FileOutput":	"\xee\x83\x8c", 	// U+e0cc
 		"FilePenLine":	"\xee\x8c\xa3", 	// U+e323
 		"FilePen":	"\xee\x8c\xa2", 	// U+e322
+		"FilePlay":	"\xee\x8c\xa4", 	// U+e324
 		"FilePlus2":	"\xee\x83\x8e", 	// U+e0ce
 		"FilePlus":	"\xee\x83\x8d", 	// U+e0cd
-		"FileQuestion":	"\xee\x8c\xa4", 	// U+e324
-		"FileScan":	"\xee\x8c\xa5", 	// U+e325
-		"FileSearch2":	"\xee\x8c\xa6", 	// U+e326
+		"FileQuestionMark":	"\xee\x8c\xa5", 	// U+e325
+		"FileScan":	"\xee\x8c\xa6", 	// U+e326
+		"FileSearch2":	"\xee\x8c\xa7", 	// U+e327
 		"FileSearch":	"\xee\x83\x8f", 	// U+e0cf
 		"FileSliders":	"\xee\x96\xa5", 	// U+e5a5
-		"FileSpreadsheet":	"\xee\x8c\xa7", 	// U+e327
+		"FileSpreadsheet":	"\xee\x8c\xa8", 	// U+e328
 		"FileStack":	"\xee\x92\xa6", 	// U+e4a6
-		"FileSymlink":	"\xee\x8c\xa8", 	// U+e328
-		"FileTerminal":	"\xee\x8c\xa9", 	// U+e329
+		"FileSymlink":	"\xee\x8c\xa9", 	// U+e329
+		"FileTerminal":	"\xee\x8c\xaa", 	// U+e32a
 		"FileText":	"\xee\x83\x90", 	// U+e0d0
 		"FileType2":	"\xee\x8d\xb1", 	// U+e371
-		"FileType":	"\xee\x8c\xaa", 	// U+e32a
-		"FileUp":	"\xee\x8c\xab", 	// U+e32b
+		"FileType":	"\xee\x8c\xab", 	// U+e32b
+		"FileUp":	"\xee\x8c\xac", 	// U+e32c
 		"FileUser":	"\xee\x98\xb2", 	// U+e632
-		"FileVideo2":	"\xee\x8c\xad", 	// U+e32d
-		"FileVideo":	"\xee\x8c\xac", 	// U+e32c
+		"FileVideoCamera":	"\xee\x8c\xad", 	// U+e32d
 		"FileVolume2":	"\xee\x8c\xaf", 	// U+e32f
 		"FileVolume":	"\xee\x8c\xae", 	// U+e32e
 		"FileWarning":	"\xee\x8c\xb0", 	// U+e330
@@ -714,6 +722,7 @@ var IconsLucide = Font{
 		"Gauge":	"\xee\x86\xbf", 	// U+e1bf
 		"Gavel":	"\xee\x83\xa4", 	// U+e0e4
 		"Gem":	"\xee\x89\x82", 	// U+e242
+		"GeorgianLari":	"\xee\x99\xbd", 	// U+e67d
 		"Ghost":	"\xee\x88\x8e", 	// U+e20e
 		"Gift":	"\xee\x83\xa5", 	// U+e0e5
 		"GitBranchPlus":	"\xee\x87\xb4", 	// U+e1f4
@@ -739,7 +748,6 @@ var IconsLucide = Font{
 		"Globe":	"\xee\x83\xac", 	// U+e0ec
 		"Goal":	"\xee\x92\xaa", 	// U+e4aa
 		"Gpu":	"\xee\x99\xaf", 	// U+e66f
-		"Grab":	"\xee\x87\xa6", 	// U+e1e6
 		"GraduationCap":	"\xee\x88\xb4", 	// U+e234
 		"Grape":	"\xee\x8d\x96", 	// U+e356
 		"Grid2x2Check":	"\xee\x97\xa9", 	// U+e5e9
@@ -757,17 +765,21 @@ var IconsLucide = Font{
 		"Hamburger":	"\xee\x99\xaa", 	// U+e66a
 		"Hammer":	"\xee\x83\xb0", 	// U+e0f0
 		"HandCoins":	"\xee\x96\xbd", 	// U+e5bd
+		"HandFist":	"\xee\x9a\x90", 	// U+e690
+		"HandGrab":	"\xee\x87\xa6", 	// U+e1e6
 		"HandHeart":	"\xee\x96\xbe", 	// U+e5be
 		"HandHelping":	"\xee\x8e\xbc", 	// U+e3bc
 		"HandMetal":	"\xee\x88\xac", 	// U+e22c
 		"HandPlatter":	"\xee\x96\xbf", 	// U+e5bf
 		"Hand":	"\xee\x87\x97", 	// U+e1d7
+		"Handbag":	"\xee\x9a\x8e", 	// U+e68e
 		"Handshake":	"\xee\x97\x85", 	// U+e5c5
 		"HardDriveDownload":	"\xee\x93\xaa", 	// U+e4ea
 		"HardDriveUpload":	"\xee\x93\xab", 	// U+e4eb
 		"HardDrive":	"\xee\x83\xb1", 	// U+e0f1
 		"HardHat":	"\xee\x83\xb2", 	// U+e0f2
 		"Hash":	"\xee\x83\xb3", 	// U+e0f3
+		"HatGlasses":	"\xee\x9a\x88", 	// U+e688
 		"Haze":	"\xee\x83\xb4", 	// U+e0f4
 		"HdmiPort":	"\xee\x93\xac", 	// U+e4ec
 		"Heading1":	"\xee\x8e\x89", 	// U+e389
@@ -828,6 +840,7 @@ var IconsLucide = Font{
 		"JapaneseYen":	"\xee\x84\x82", 	// U+e102
 		"Joystick":	"\xee\x8d\x99", 	// U+e359
 		"Kanban":	"\xee\x93\xa1", 	// U+e4e1
+		"Kayak":	"\xee\x9a\x94", 	// U+e694
 		"KeyRound":	"\xee\x92\xa8", 	// U+e4a8
 		"KeySquare":	"\xee\x92\xa9", 	// U+e4a9
 		"Key":	"\xee\x84\x83", 	// U+e103
@@ -867,6 +880,7 @@ var IconsLucide = Font{
 		"Ligature":	"\xee\x90\xbf", 	// U+e43f
 		"LightbulbOff":	"\xee\x88\x88", 	// U+e208
 		"Lightbulb":	"\xee\x87\x82", 	// U+e1c2
+		"LineSquiggle":	"\xee\x99\xbf", 	// U+e67f
 		"Link2Off":	"\xee\x84\x8a", 	// U+e10a
 		"Link2":	"\xee\x84\x89", 	// U+e109
 		"Link":	"\xee\x84\x88", 	// U+e108
@@ -894,7 +908,6 @@ var IconsLucide = Font{
 		"LocateFixed":	"\xee\x87\x9b", 	// U+e1db
 		"LocateOff":	"\xee\x8a\x82", 	// U+e282
 		"Locate":	"\xee\x87\x9a", 	// U+e1da
-		"LocationEdit":	"\xee\x99\x9a", 	// U+e65a
 		"LockKeyholeOpen":	"\xee\x94\xb7", 	// U+e537
 		"LockKeyhole":	"\xee\x94\xb6", 	// U+e536
 		"LockOpen":	"\xee\x84\x90", 	// U+e110
@@ -909,19 +922,21 @@ var IconsLucide = Font{
 		"MailMinus":	"\xee\x8d\xa6", 	// U+e366
 		"MailOpen":	"\xee\x8d\xa7", 	// U+e367
 		"MailPlus":	"\xee\x8d\xa8", 	// U+e368
-		"MailQuestion":	"\xee\x8d\xa9", 	// U+e369
+		"MailQuestionMark":	"\xee\x8d\xa9", 	// U+e369
 		"MailSearch":	"\xee\x8d\xaa", 	// U+e36a
 		"MailWarning":	"\xee\x8d\xab", 	// U+e36b
 		"MailX":	"\xee\x8d\xac", 	// U+e36c
 		"Mail":	"\xee\x84\x93", 	// U+e113
 		"Mailbox":	"\xee\x8f\x98", 	// U+e3d8
 		"Mails":	"\xee\x8d\xad", 	// U+e36d
+		"MapMinus":	"\xee\x9a\x8b", 	// U+e68b
 		"MapPinCheckInside":	"\xee\x98\x95", 	// U+e615
 		"MapPinCheck":	"\xee\x98\x94", 	// U+e614
 		"MapPinHouse":	"\xee\x98\xa1", 	// U+e621
 		"MapPinMinusInside":	"\xee\x98\x97", 	// U+e617
 		"MapPinMinus":	"\xee\x98\x96", 	// U+e616
 		"MapPinOff":	"\xee\x8a\xa6", 	// U+e2a6
+		"MapPinPen":	"\xee\x99\x9a", 	// U+e65a
 		"MapPinPlusInside":	"\xee\x98\x99", 	// U+e619
 		"MapPinPlus":	"\xee\x98\x98", 	// U+e618
 		"MapPinXInside":	"\xee\x98\x9b", 	// U+e61b
@@ -948,7 +963,7 @@ var IconsLucide = Font{
 		"MessageCircleMore":	"\xee\x95\xaa", 	// U+e56a
 		"MessageCircleOff":	"\xee\x95\xab", 	// U+e56b
 		"MessageCirclePlus":	"\xee\x95\xac", 	// U+e56c
-		"MessageCircleQuestion":	"\xee\x95\xad", 	// U+e56d
+		"MessageCircleQuestionMark":	"\xee\x95\xad", 	// U+e56d
 		"MessageCircleReply":	"\xee\x95\xae", 	// U+e56e
 		"MessageCircleWarning":	"\xee\x95\xaf", 	// U+e56f
 		"MessageCircleX":	"\xee\x95\xb0", 	// U+e570
@@ -1169,6 +1184,7 @@ var IconsLucide = Font{
 		"ReceiptRussianRuble":	"\xee\x96\xaf", 	// U+e5af
 		"ReceiptSwissFranc":	"\xee\x96\xb0", 	// U+e5b0
 		"ReceiptText":	"\xee\x96\xb1", 	// U+e5b1
+		"ReceiptTurkishLira":	"\xee\x9a\x84", 	// U+e684
 		"Receipt":	"\xee\x8f\x97", 	// U+e3d7
 		"RectangleCircle":	"\xee\x99\xb8", 	// U+e678
 		"RectangleEllipsis":	"\xee\x88\x9f", 	// U+e21f
@@ -1272,7 +1288,7 @@ var IconsLucide = Font{
 		"ShieldMinus":	"\xee\x94\x9d", 	// U+e51d
 		"ShieldOff":	"\xee\x85\x9e", 	// U+e15e
 		"ShieldPlus":	"\xee\x94\x9e", 	// U+e51e
-		"ShieldQuestion":	"\xee\x90\x93", 	// U+e413
+		"ShieldQuestionMark":	"\xee\x90\x93", 	// U+e413
 		"ShieldUser":	"\xee\x99\x8c", 	// U+e64c
 		"ShieldX":	"\xee\x88\x80", 	// U+e200
 		"Shield":	"\xee\x85\x9c", 	// U+e15c
@@ -1328,6 +1344,8 @@ var IconsLucide = Font{
 		"SplinePointer":	"\xee\x99\x94", 	// U+e654
 		"Spline":	"\xee\x8e\x8f", 	// U+e38f
 		"Split":	"\xee\x91\x85", 	// U+e445
+		"Spool":	"\xee\x99\xbc", 	// U+e67c
+		"Spotlight":	"\xee\x9a\x87", 	// U+e687
 		"SprayCan":	"\xee\x92\x9a", 	// U+e49a
 		"Sprout":	"\xee\x87\xab", 	// U+e1eb
 		"SquareActivity":	"\xee\x92\xb9", 	// U+e4b9
@@ -1371,6 +1389,7 @@ var IconsLucide = Font{
 		"SquareMousePointer":	"\xee\x88\x82", 	// U+e202
 		"SquareParkingOff":	"\xee\x8f\x90", 	// U+e3d0
 		"SquareParking":	"\xee\x8f\x8f", 	// U+e3cf
+		"SquarePause":	"\xee\x9a\x89", 	// U+e689
 		"SquarePen":	"\xee\x85\xb6", 	// U+e176
 		"SquarePercent":	"\xee\x94\xa1", 	// U+e521
 		"SquarePi":	"\xee\x92\x8d", 	// U+e48d
@@ -1387,6 +1406,8 @@ var IconsLucide = Font{
 		"SquareSplitVertical":	"\xee\x8e\xbb", 	// U+e3bb
 		"SquareSquare":	"\xee\x98\x93", 	// U+e613
 		"SquareStack":	"\xee\x92\xa7", 	// U+e4a7
+		"SquareStar":	"\xee\x9a\x93", 	// U+e693
+		"SquareStop":	"\xee\x9a\x8a", 	// U+e68a
 		"SquareTerminal":	"\xee\x88\x8a", 	// U+e20a
 		"SquareUserRound":	"\xee\x91\xab", 	// U+e46b
 		"SquareUser":	"\xee\x91\xaa", 	// U+e46a
@@ -1396,6 +1417,7 @@ var IconsLucide = Font{
 		"SquaresIntersect":	"\xee\x99\x9d", 	// U+e65d
 		"SquaresSubtract":	"\xee\x99\x9e", 	// U+e65e
 		"SquaresUnite":	"\xee\x99\x9f", 	// U+e65f
+		"SquircleDashed":	"\xee\x99\xbe", 	// U+e67e
 		"Squircle":	"\xee\x95\xbf", 	// U+e57f
 		"Squirrel":	"\xee\x92\xa4", 	// U+e4a4
 		"Stamp":	"\xee\x8e\xbf", 	// U+e3bf
@@ -1480,6 +1502,7 @@ var IconsLucide = Font{
 		"ToggleLeft":	"\xee\x86\x8b", 	// U+e18b
 		"ToggleRight":	"\xee\x86\x8c", 	// U+e18c
 		"Toilet":	"\xee\x98\xba", 	// U+e63a
+		"ToolCase":	"\xee\x9a\x82", 	// U+e682
 		"Tornado":	"\xee\x88\x98", 	// U+e218
 		"Torus":	"\xee\x94\xb4", 	// U+e534
 		"TouchpadOff":	"\xee\x91\x8f", 	// U+e44f
@@ -1510,6 +1533,8 @@ var IconsLucide = Font{
 		"Trophy":	"\xee\x8d\xb7", 	// U+e377
 		"TruckElectric":	"\xee\x99\xa4", 	// U+e664
 		"Truck":	"\xee\x86\x94", 	// U+e194
+		"TurkishLira":	"\xee\x9a\x85", 	// U+e685
+		"Turntable":	"\xee\x9a\x91", 	// U+e691
 		"Turtle":	"\xee\x93\xbe", 	// U+e4fe
 		"TvMinimalPlay":	"\xee\x97\xb1", 	// U+e5f1
 		"TvMinimal":	"\xee\x88\x83", 	// U+e203
@@ -1548,6 +1573,7 @@ var IconsLucide = Font{
 		"UserRoundX":	"\xee\x91\xb2", 	// U+e472
 		"UserRound":	"\xee\x91\xad", 	// U+e46d
 		"UserSearch":	"\xee\x95\xbe", 	// U+e57e
+		"UserStar":	"\xee\x9a\x8c", 	// U+e68c
 		"UserX":	"\xee\x86\xa3", 	// U+e1a3
 		"User":	"\xee\x86\x9f", 	// U+e19f
 		"UsersRound":	"\xee\x91\xb3", 	// U+e473
@@ -1557,6 +1583,7 @@ var IconsLucide = Font{
 		"UtilityPole":	"\xee\x8f\x86", 	// U+e3c6
 		"Variable":	"\xee\x91\xb8", 	// U+e478
 		"Vault":	"\xee\x96\x94", 	// U+e594
+		"VectorSquare":	"\xee\x9a\x81", 	// U+e681
 		"Vegan":	"\xee\x8e\xa1", 	// U+e3a1
 		"VenetianMask":	"\xee\x8a\xaa", 	// U+e2aa
 		"VenusAndMars":	"\xee\x99\x8b", 	// U+e64b
@@ -1594,10 +1621,12 @@ var IconsLucide = Font{
 		"WheatOff":	"\xee\x8e\xa3", 	// U+e3a3
 		"Wheat":	"\xee\x8e\xa2", 	// U+e3a2
 		"WholeWord":	"\xee\x8f\xa3", 	// U+e3e3
+		"WifiCog":	"\xee\x99\xb9", 	// U+e679
 		"WifiHigh":	"\xee\x97\xbc", 	// U+e5fc
 		"WifiLow":	"\xee\x97\xbd", 	// U+e5fd
 		"WifiOff":	"\xee\x86\xaf", 	// U+e1af
 		"WifiPen":	"\xee\x99\xa8", 	// U+e668
+		"WifiSync":	"\xee\x9a\x86", 	// U+e686
 		"WifiZero":	"\xee\x97\xbe", 	// U+e5fe
 		"Wifi":	"\xee\x86\xae", 	// U+e1ae
 		"WindArrowDown":	"\xee\x98\xb6", 	// U+e636
