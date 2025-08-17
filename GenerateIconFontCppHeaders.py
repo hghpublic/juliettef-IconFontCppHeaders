@@ -36,6 +36,14 @@
 #           https://github.com/FortAwesome/Font-Awesome/blob/6.x/webfonts/fa-regular-400.ttf [ FAR ]
 #           https://github.com/FortAwesome/Font-Awesome/blob/6.x/webfonts/fa-solid-900.ttf [ FAS ]
 #
+#       1.1.5 - version 7 Free
+#           https://github.com/FortAwesome/Font-Awesome/tree/7.x
+#           https://github.com/FortAwesome/Font-Awesome/blob/7.x/metadata/icons.yml
+#           https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-brands-400.woff2 [ FAB ]
+#           https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-regular-400.woff2 [ FAR ]
+#           https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-solid-900.woff2 [ FAS ]
+#           Note: You may need to convert the `.woff2` files to `.ttf` depending upon your loader.
+#
 #   1.2 - Fork Awesome [ FK ]
 #           https://forkaweso.me/Fork-Awesome/
 #           https://github.com/ForkAwesome/Fork-Awesome
@@ -337,6 +345,19 @@ class FontFA6Brands( FontFA5Brands ):     # Font Awesome version 6 - Brand style
     font_name = 'Font Awesome 6 Brands'
     font_data = 'https://github.com/FortAwesome/Font-Awesome/raw/6.x/metadata/icons.yml'
     ttfs = [[ 'FAB', 'fa-brands-400.ttf', 'https://github.com/FortAwesome/Font-Awesome/blob/6.x/webfonts/fa-brands-400.ttf' ]]
+
+
+class FontFA7( FontFA5 ):           # Font Awesome version 7 - Regular and Solid styles - You may need to convert the `.woff2` files to `.ttf` depending upon your loader.
+    font_name = 'Font Awesome 7'
+    font_data = 'https://github.com/FortAwesome/Font-Awesome/raw/7.x/metadata/icons.yml'
+    ttfs = [[ 'FAR', 'fa-regular-400.woff2', 'https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-regular-400.woff2 (You may need to convert the .woff2 files to .ttf depending upon your loader.)' ],
+            [ 'FAS', 'fa-solid-900.woff2', 'https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-solid-900.woff2 (You may need to convert the .woff2 files to .ttf depending upon your loader.)' ]]
+
+
+class FontFA7Brands( FontFA5Brands ):     # Font Awesome version 7 - Brand style - You may need to convert the `.woff2` files to `.ttf` depending upon your loader
+    font_name = 'Font Awesome 7 Brands'
+    font_data = 'https://github.com/FortAwesome/Font-Awesome/raw/7.x/metadata/icons.yml'
+    ttfs = [[ 'FAB', 'fa-brands-400.woff2', 'https://github.com/FortAwesome/Font-Awesome/blob/7.x/webfonts/fa-brands-400.woff2 (You may need to convert the .woff2 files to .ttf depending upon your loader.)' ]]
 
 
 class FontMD( Font ):               # Google Material Design
@@ -894,7 +915,7 @@ class LanguageGo( Language ):
 # Main
 
 
-fonts = [ FontFA4, FontFA5, FontFA5Brands, FontFA5Pro, FontFA5ProBrands, FontFA6, FontFA6Brands, FontFK, FontMD, FontMS, FontMDI, FontKI, FontFAD, FontCI, FontLC ]
+fonts = [ FontFA4, FontFA5, FontFA5Brands, FontFA5Pro, FontFA5ProBrands, FontFA6, FontFA6Brands, FontFA7, FontFA7Brands, FontFK, FontMD, FontMS, FontMDI, FontKI, FontFAD, FontCI, FontLC ]
 languages = [ LanguageC, LanguageCSharp, LanguagePython, LanguageRust, LanguageGo ]
 ttf2headerC = False # convert ttf files to C and C++ headers
 
